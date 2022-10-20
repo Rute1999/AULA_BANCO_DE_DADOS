@@ -1,0 +1,8 @@
+# ATIVIDADE 1:
+create table `sz-00006-ws.turma880.filmes_rute`(
+  id int64,
+  nome_filme string,
+  categoria string,
+  duracao string,
+  lancamento date
+)
